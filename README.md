@@ -29,7 +29,7 @@ python scripts/check_site.py
 
 ## Publish
 
-Every push to `main` triggers `.github/workflows/pages.yml`. In a new GitHub repository, select **Settings → Pages → Build and deployment → Source → GitHub Actions** once. The site will then publish automatically after each push.
+GitHub Pages is configured to deploy the repository root from `main`. Every push to `main` republishes the site automatically. The setting is visible under **Settings → Pages → Build and deployment → Source → Deploy from a branch**.
 
 ## Common updates
 
