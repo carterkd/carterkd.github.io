@@ -36,7 +36,7 @@ GitHub Pages is configured to deploy the repository root from `main`. Every push
 - Add or revise papers directly in `research.html`.
 - Keep the two selected publications on `index.html` in sync with the research page.
 - Replace `assets/files/carter-davis-cv.pdf` when the CV changes; keep the filename unchanged so links do not break.
-- Replace `assets/images/carter-davis.jpg` when the headshot changes; use a square image if possible.
+- Replace `assets/images/carter-davis-corrected.jpg` when the headshot changes; use a square image if possible.
 - Navigation and footer markup is repeated across the three pages, so update all three when adding a page.
 
 ## Migration sources
