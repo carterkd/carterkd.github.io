@@ -293,6 +293,7 @@ a {
   width: 100%;
   height: auto;
   aspect-ratio: 1;
+  filter: brightness(0.94) contrast(1.14) saturate(1.14) sepia(0.035);
   object-fit: cover;
 }
 
