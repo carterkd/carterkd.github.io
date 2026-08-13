@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Carter Davis</title>
+  <rect width="64" height="64" rx="32" fill="#17191e"/>
+  <circle cx="32" cy="32" r="25" fill="none" stroke="#ba0c2f" stroke-width="2"/>
+  <text x="32" y="39" fill="#fff" font-family="Georgia,serif" font-size="21" text-anchor="middle">CD</text>
+</svg>
