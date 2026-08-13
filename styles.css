@@ -531,6 +531,14 @@ a {
   border-top: 1px solid #292c32;
 }
 
+.copyright .license {
+  margin-left: 12px;
+}
+
+.copyright a {
+  color: #c7c9ce;
+}
+
 /* Inner pages */
 .page-hero {
   padding-block: 94px 72px;
@@ -891,6 +899,11 @@ a {
 
   .copyright {
     width: 100%;
+  }
+
+  .copyright .license {
+    display: block;
+    margin: 5px 0 0;
   }
 
   .page-hero {
